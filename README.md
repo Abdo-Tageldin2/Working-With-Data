@@ -48,16 +48,6 @@ Main Features
 	•	Analytical query execution and results visualization
 	•	Implemented robust error handling with try-catch blocks and user-friendly error messages via Message Boxes.
 	•	Ensured protection against SQL Injection attacks using parameterized queries.
-
-Repository Structure
-
-├── ER-Diagram/
-├── Relational-Schema-Design/
-├── SQL-Scripts/
-├── Data-Population/
-├── Complex-and-Aggregate-Queries/
-└── Clinic-App-(C#)/
-
 Technologies Used
 	•	Database: Microsoft SQL Server
 	•	Programming: SQL, C# (.NET Framework)
